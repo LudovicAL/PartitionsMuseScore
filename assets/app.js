@@ -1,12 +1,15 @@
-import abcjs from 'abcjs-basic-min'
-
-function buttonClick() {
-   console.log("Button clicked");
+function addSet() {
+   console.log("Add set button clicked");
 }
 
-function initEditor() {
-   new abcjs.Editor("abcTextArea", { 
+window.onload = function initEditor() {
+   console.log("Loading ABCJS Editor");
+   new ABCJS.Editor("abcTextArea", { 
       canvas_id: "renderingDiv", 
-      warnings_id:"warningsDiv" 
+      warnings_id:"warningsDiv", 
+      print: true,
+      responsive: "resize",
+      scale: 0.5
    });
+   console.log("ABCJS Editor Loaded");
 }
