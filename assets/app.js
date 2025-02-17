@@ -1,15 +1,109 @@
-function addSet() {
-   console.log("Add set button clicked");
-}
-
 window.onload = function initEditor() {
    console.log("Loading ABCJS Editor");
-   new ABCJS.Editor("abcTextArea", { 
-      canvas_id: "renderingDiv", 
-      warnings_id:"warningsDiv", 
+   var abcEditor = new ABCJS.Editor("abcTextArea", {
+      canvas_id: "renderingDiv",
+      warnings_id:"warningsDiv",
       print: true,
-      responsive: "resize",
-      scale: 0.5
+      onchange: this.updatePrintableDiv,
+      responsive: "resize"
    });
    console.log("ABCJS Editor Loaded");
+   addSet();
+}
+
+var setCounter = 1;
+
+function addSet() {
+   var currentCount = setCounter;
+   console.log("Add set button clicked: " + currentCount);
+   let div1 = createElem(document.getElementById("leftColumn"), document.getElementById("addSetButton"), "div", "set" + currentCount + "Div", null, ["container", "p-3", "my-2", "text-bg-secondary", "rounded-3"], null);
+   let h2 = createElem(div1, null, "h2", null, null, null, null);
+   h2.appendChild(document.createTextNode("Set " + currentCount));
+   let buttonRemoveSet = createElem(h2, null, "button", null, "button", ["btn", "btn-danger", "btn-sm", "mx-1", "float-end"], "Remove set");
+   buttonRemoveSet.onclick = function(){removeSet(currentCount)};
+   let buttonMoveSetUp = createElem(h2, null, "button", null, "button", ["btn", "btn-success", "btn-sm", "mx-1", "float-end"], "↑");
+   buttonMoveSetUp.onclick = function(){moveSetUp(currentCount)};
+   let buttonMoveSetDown = createElem(h2, null, "button", null, "button", ["btn", "btn-success", "btn-sm", "mx-1", "float-end"], "↓");
+   buttonMoveSetDown.onclick = function(){moveSetDown(currentCount)};
+   createElem(div1, null, "div", "tuneDiv", null, null, null);
+   let addTuneToSetButton = createElem(div1, null, "button", null, "button", ["btn", "btn-primary"], "Add tune to set")
+   addTuneToSetButton.setAttribute("data-bs-toggle", "modal");
+   addTuneToSetButton.setAttribute("data-bs-target", "#addTuneSet" + currentCount + "Modal");
+   let modalDiv = createElem(div1, null, "div", "addTuneSet" + currentCount + "Modal", null, ["modal"], null);
+   let modalDialogDiv = createElem(modalDiv, null, "div", null, null, ["modal-dialog"], null);
+   let modalContentDiv = createElem(modalDialogDiv, null, "div", null, null, ["modal-content"], null);
+   let modalHeaderDiv = createElem(modalContentDiv, null, "div", null, null, ["modal-header"], null);
+   createElem(modalHeaderDiv, null, "h4", null, null, ["modal-title"], "Modal Heading");
+   let modalHeaderButton = createElem(modalHeaderDiv, null, "button", null, "button", ["btn-close"], null);
+   modalHeaderButton.setAttribute("data-bs-dismiss", "modal");
+   let modalBodyDiv = createElem(modalContentDiv, null, "div", null, null, ["modal-body"], null);
+   let modalTuneSearchBar = createElem(modalBodyDiv, null, "input", "modalTuneSearchBar" + currentCount, null, ["form-control"], null);
+   modalTuneSearchBar.setAttribute("list", "tuneDatalistDiv");
+   modalTuneSearchBar.setAttribute("placeholder", "Type to search...");
+   let modalFooterDiv = createElem(modalContentDiv, null, "div", null, null, ["modal-footer"], null);
+   let modalFooterButton = createElem(modalFooterDiv, null, "button", null, "button", ["btn", "btn-success"], "Add selected tune");
+   modalFooterButton.setAttribute("data-bs-dismiss", "modal");
+   modalFooterButton.onclick = function(){
+         searchbar = document.getElementById("modalTuneSearchBar" + currentCount);
+         addTune(currentCount, searchbar.value);
+         searchbar.value = "";
+      };
+   setCounter++;
+}
+
+function removeSet(setId) {
+   console.log("Remove set button clicked: " + setId);
+   let setNode = document.getElementById("set" + setId + "Div");
+   setNode.parentNode.removeChild(setNode);
+}
+
+function moveSetUp(setId) {
+   console.log("Move set up button clicked: " + setId);
+   let setNode = document.getElementById("set" + setId + "Div");
+   let index = getNodeIndex(setNode);
+   if (index > 0) {
+      console.log("Moving set up");
+      let setNodeOther = setNode.parentNode.children[index - 1];
+      setNode.parentNode.insertBefore(setNode, setNodeOther);
+   }
+}
+
+function moveSetDown(setId) {
+   console.log("Move set down button clicked: " + setId);
+   let setNode = document.getElementById("set" + setId + "Div");
+   let index = getNodeIndex(setNode);
+   if (index < (setNode.parentNode.childElementCount - 2)) {
+      console.log("Moving set down");
+      let setNodeOther = setNode.parentNode.children[index + 1];
+      setNodeOther.parentNode.insertBefore(setNodeOther, setNode);
+   }
+}
+
+function addTune(setId, tuneName) {
+   console.log("Add tune button clicked: " + setId + ", " + tuneName);
+   if (tuneExists(tuneName)) {
+      let setNode = document.getElementById("set" + setId + "Div");
+      let tuneDivNode = setNode.childNodes.item("tuneDiv");
+      let newTuneDivNode = createElem(tuneDivNode, null, "div", "tune" + tuneName, null, ["container", "p-4", "my-2", "text-bg-warning", "rounded-3"], null);
+      let newTuneTitleNode = createElem(newTuneDivNode, null, "h4", null, null, null, tuneName);
+      let newTuneCloseButton = createElem(newTuneTitleNode, null, "button", null, "button", ["btn", "btn-close", "btn-sm", "float-end"], null);
+      newTuneCloseButton.onclick = function(){removeTune(setId, newTuneDivNode);};
+   } else {
+      displayToast("This tune does not exist.");
+   }
+}
+
+function removeTune(setId, tuneNode) {
+   console.log("Remove tune button clicked: " + setId + ", " + tuneNode);
+   tuneNode.parentNode.removeChild(tuneNode);
+}
+
+function updatePrintableDiv() {
+   console.log("Abc change detected");
+}
+
+function printRendering() {
+   document.getElementById("print").innerHTML = document.getElementById("renderingDiv").innerHTML;
+   window.print();
+   document.getElementById("print").innerHTML = "";
 }
