@@ -1,0 +1,12 @@
+X:1
+T:The wind that shakes the barley
+C:Compositeur / Arrangeur
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Violon" snm="Vln."
+V:1
+"D" A2 AB AFED |"G" B2 BA BcdB |"D" A2 AB AFED |1"G" gfed BcdB :|2"G" gfed Bcde || %5
+"D" f2 fd"G" g2 ge |"D" f2 fd"G" Bcde |"D" f2 fd"G" g2 fg |"D" afed"G" Bcde |"D" f2 fd"G" g2 ge | %10
+"D" f2 fd"G" Bcde |"D" defg"D" a2 ab | afed"G" BcdB |] %13

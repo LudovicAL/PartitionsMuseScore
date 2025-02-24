@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+V:1
+"Gm" BGGG DGGG | BG"F"AF FFCF |1 AcBA"Gm" dcBA |"F" AFFF AcBA :|2 FGAc"Gm" BAGF | %5
+ GABd"F" AF"Gm" G2 ||"Gm" dBBB GBBB |"F" cAAA FAAc |"Gm" BAGA BddB |"F" cAFB FA"Gm" G2 | %10
+"Gm" dBBB GBBB |"F" cAAA FAAA | cAAA"Gm" dcBA | BdAd GF G2 |] %14

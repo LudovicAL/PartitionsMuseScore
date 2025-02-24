@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:1
+"G" G3 GAc | BAB GDE |"Dm" F2 F cFF | dFF cFF |"G" G^FG ABc | d2 e"C" edc |"Dm" fed cAG | %7
+[M:9/8] FDC"D" DG^F"G" G3 ::[M:6/8]"Dm" d2 d"C" cAG |"Dm" ded"C" cAG | cBc cde |"Dm" fed"C" edc | %12
+"Dm" ddd"C" cAG |"Dm" ded"C" cAG | cBc AGE |"Dm" FDD D3 ::"D" d^cd eag |"C" edc"Dm" AGA | %18
+"C" cBc cde | gag edc |"D" d^cd eag |"C" edc"Dm" AGA |"C" cBc AGE |"Dm" FDD D2 D :| %24

@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"D" defg fedf |"A" eAcA eAcA |"G" B2"A" A2"D" defg | fedf"A" eAcA |1 eAcA"D" d2 dA :|2 %5
+ eAcA"D" d2 df |:"D" afdf"A" eAcA | eAcA"G" B2"A" Af |"D" afdf"A" eAcA | eAcA"D" d2 df :: %10
+"A" eAcA eAcA |"G" B2 Af"A" eAcA |1 eAcA"D" d2 df :|2 eAcA"D" d2 dA |] %14

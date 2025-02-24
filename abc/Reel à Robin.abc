@@ -1,0 +1,17 @@
+X:1
+T:Partition sans titre
+C:Compositeur / Arrangeur
+L:1/8
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Violon" snm="Vln."
+V:1
+ E2 F2 G2 |:"A" A3 c B2 A2 | c3 c"E" BAFG |"A" A3 c B2 A2 | c4 cBcd |"E" e3 f edcd | B3 B BAGA |1 %7
+ B2 d2 d2 c2 |"A" c2 Ac BAFG :|2 B2 d2 c2 B2 |"A" A3 a faea |:"A" faea faea |"E" b3 b fbeb | %13
+ fbeb"D" afef |"A" e3 f"D" afdf |"A" e3 f ecAc |"E" B3 c BAGA |1 B2 d2 d2 c2 |"A" c3 a faea :|2 %19
+ B2 d2 c2 B2 |"A" A2 |]"^Variation avec ornements" E2 F2 G2 |:"A" A3/2 z/ Ac B2 A2 | c3 c"E" BAFG | %24
+"A" A3/2 z/ Ac B2 A2 | c4 cBcd |"E" e3/2 z/ ef edcd | B3 B BAGA |1 B3/2 z/ Bd d2 c2 | %29
+"A" c2 Ac BAFG :|2 B3/2 z/ Bd c2 B2 |"A" A2 Aa faea |:"A" faea faea |"E" b3/2 z/ bb fbeb | %34
+ fbeb"D" afef |"A" e3/2 z/ ea"D" afdf |"A" e3/2 z/ ef ecAc |"E" B3 c BAGA |1 B3/2 z/ Bd d2 c2 | %39
+"A" c3/2 z/ ca faea :|2 B3/2 z/ Bd c2 B2 |"A" A2 |] %42

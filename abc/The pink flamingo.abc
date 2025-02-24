@@ -1,0 +1,13 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+V:1
+"Gm" G2 A BAG |"F" A2 B cBA |"Gm" G2 A BAG | dGB"F" AGF |"Gm" G2 A BAG |"F" A2 B cBA |"Gm" B3 AGF | %7
+ dGB"F" AGF ::"Gm" B2 c dcB |"F" cfc AGF |"Gm" B2 c dcB |"F" AFA cBA |"Gm" B2 c dcB |"F" cfc AGF | %14
+"Gm" B3"F" AGF |"Gm" dGB"F" AGF ::"Gm" z bg afg | dfc dBc |"F" ABG AGF |"Gm" dGB"F" AGF |1 %20
+"Gm" z bg afg | dfc dBc |"F" ABG AGF |"Gm" dGB"F" A3 :|2"Gm" bga fgd | fcd BcA | B3"F" AGF | %27
+"Gm" dGB"F" AGF |] %28

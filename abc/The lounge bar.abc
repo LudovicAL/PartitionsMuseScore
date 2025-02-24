@@ -1,0 +1,13 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"G" B,DF"A" E2 D- |"D" DFA d2 c |"G" BGB"D" AFD |"A" EGF E2 A, |"G" B,DF"A" E2 D- |"D" DFA d2 c | %6
+"G" BGB"D" AFD |1"A" E>FE"D" D2 A, :|2"A" E>FE"D" DFA |:"D" d3 dcA | F3 FEF |"G" GBd-"D" dcA | %12
+"A" E3 EDE |"D" F3 FED |"G" B,3 B,A,B, |"D" D2 E-"A" EFE |1"D" D3 DFA :|2"D" D6 |: %18
+"G" dBd"A" c2 B- |"G" Bdf"A" e2 c |"D" dcB AFD |"A" EGF E2 D |"G" dBd"A" c2 B- |"G" Bdf"A" e2 c | %24
+"D" dcB AFD |1"A" E>FE"D" D3 :|2"A" E>FE"D" DFA :| %27

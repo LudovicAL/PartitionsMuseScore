@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"G" G2 BG"D" A2 BA |"C" GE PE2 cEGE |"G" DGBG"D" A2 BA |"G" GEED EGGA |"G" B3 d"D" A2 BA | %5
+"C" GE PE2 cEGE |"G" DGBG"D" A2 BA |"G" GEED EGGD |"G" G2 Bd egge | dB PB2"D" dcAF | %10
+"G" G2 Bd egge |"D" dcAG"G" EGGD |"G" G2 Bd egge | dB PB2"D" dega |"G" bgag"C" egde | %15
+"G" gedB AGED |] %16

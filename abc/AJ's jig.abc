@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:E
+V:1 treble nm="Voice"
+V:1
+"E" g2 g fef | gfe"A" c3 | ecB"E" GFE |"B" FEF CB,C |"E" E2 E FAc | Bce gfe |"B" f2 B c2 B |1 %7
+ B2 c def :|2 Bcd"E" efg |:"B" f2 e- efe | d2 c- cde | BcB"E" GFE |"B" FEF CB,C |"E" E2 E FAc | %14
+ Bce gfe |"B" f2 B c2 B |1 Bcd"E" efg :|2 B2 c def |] %18

@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"Em" E2 (EF) GE | B2 E2 E2 |"D7" A2 (AB) cA |"Em" B2 G2 G2 |1"D7" A2 AB cA |"Em" G2 (GA) BG | %6
+"D" F2 (FE) AG | F4 PF2 :|2"D7" c2 (cB) Ac |"Em" B2 (BA) GB |"D" AB AG FG |"Em" E4 B2 |: %12
+"Em" g2 (Pgf) eg |"D" f4 d2 |"Em" e2 (ed) ce |"D" d4 B2 |1"D7" c2 (PcB) Ac |"Em" B2 e2 g2 | %18
+"D" f2 ^c2 e2 |"B" ^d4 B2 :|2"D7" (cB) Ac e2 |"Em" (BA) GB e2 | (Bc) (BA) dc | B2"D" PA2 GF |] %24

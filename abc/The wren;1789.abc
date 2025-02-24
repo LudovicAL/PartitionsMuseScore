@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"Bm" B2 f2 f2 ef |"A7" g2 e2 edcd | e2 A2 efed | c2 c2"Bm" dcBA |"Bm" B2 f2 f2 ef | %5
+"A7" g2 e2 edcd | e2 A2 efed | c2 B2"Bm" B4 ::"Bm" B3 A Bcdc | B2 B2 c2 d2 |"A" e2 A2 efed | %11
+ c3 c"Bm" dcBA |"Bm" B2 B2 c2 d2 | B2 B2 c2 d2 |"A" e2 A2 efed | c2 B2"Bm" B4 :| %16

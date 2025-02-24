@@ -1,0 +1,13 @@
+X:1
+T:Partition sans titre
+C:Compositeur / Arrangeur
+L:1/8
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Violon" snm="Vln."
+V:1
+"Am" A3 e3 |"G" (d3 d)ed |"C" (c3 c)dc |"E7" B6 |"Am" A3 e3 |"Dm" (f3 f)gf |"E7" e6 |"E" ^g3 b3 | %8
+"Am" (a3 a)bc' |"Dm" b2 (a a)gf |"G" e2 d def |"E7" (e3 e)cd | %12
+"Am""_Elle a été cette flamme dans cette fosse\nElle a été cette lame sur cette lice\nElle a été cette dame à la tête de grandes milices\nMesdames et messieurs la voilà de retour sur la piste\n\nREFRAIN\nHé Mana, hé, hé\nHé Mana\nDe feu, de fer et de voix\nOn verra la dame aux soufflets de soie\nDu combat des combats\nRevenir prestement au bercail et bien oui là voilà\n\nBien assise dans la chaleur du sable\nSous un ciel presque parfait\nUne ombre d'un passé d'une guerre\nQui était pourtant gagnée\nEnvahit peu à peu la guerrière\nEn son sein y florissait, nénuphar de glaise\nQue mille saisons n'auraient su fanner\n""_Comment pourrions-nous faire la guerre\nÀ cette dame\nQu'un oiseau de malheur en ses serres\nParalyse le combat des combats\nEnvahit dans une tour de verre\nProtégeant des pires trépas\nAlchimiste, ennemis et alliés\nRéunis sous ce toit\n\nREFRAIN\nHé Mana, hé, hé\nHé Mana\nDe feu, de fer et de voix\nOn verra la dame aux soufflets de soie\nDu combat des combats\nRevenir prestement au bercail et bien oui là voilà\n" (e3 e)dc | %13
+"G" (d3 d)cB |"Am" (A6 | A6) |] %16

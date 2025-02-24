@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"D" F3 FGB | A3 ABc | dcd edB | A2 A FAd |"A" c2 c Ace |"G" g2 g"A" Ace | c'ba gfe |1 %7
+"D" fed cBA :|2"D" dAF D2 G :|3"D" dAF D2 c |:"Bm" ddd dcd | BFF FBc | ddd dcB |"A" cFF F3 | %14
+"A" eee ede | cFF FFF |1"Bm" fFF eFF | dFF cFF :|2"Bm" fgf"A" edc |"Bm" BFD B2 c :|3 %20
+"Bm" fgf"A" edc |"Bm" B2 A"D" A2 G |] %22

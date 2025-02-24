@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:A
+V:1 treble nm="Voice"
+V:1
+"A" aed cdB | Ace aga |"E" bee dee | bee bag |"A" aed cdB | Ace aga |"E" bee dBG |1 BAG"A" A2 g :|2 %8
+ BAG"A" A2 B |:"A" c2 A EAc |"D" d2 f fed |"A" ece aec |"E" B2 f fed |1"A" c2 A EAc |"D" d2 f fed | %15
+"A" e2 e cde |"E" fec"A" A2 B :|2"A" c2 A EAc |"D" d2 f fed |"A" Pe2 e fef |"E" gfg efg |] %21

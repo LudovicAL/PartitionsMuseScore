@@ -1,0 +1,18 @@
+X:1
+T:Partition sans titre
+C:Compositeur / Arrangeur
+L:1/4
+M:none
+I:linebreak $
+K:C
+V:1 treble nm="Violon" snm="Vln."
+V:1
+"^C" [C_E_GA]4 | [C_E_G_B]4 | [C_EG_B]4 | [CEG_B]4 | [CEGB]4 |]"^Db" [_DEG_B]4 | [_DEGB]4 | %7
+ [_DE_AB]4 | [_DF_AB]4 | [_DF_Ac]4 |]"^D" [DF_AB]4 | [DF_Ac]4 | [DFAc]4 | [D^FAc]4 | [D^FA^c]4 |] %15
+"^Eb" [_E_GAc]4 | [_E_GA_d]4 | [_E_G_B_d]4 | [_EG_B_d]4 | [_EG_Bd]4 |]"^E" [EG_B_d]4 | [EG_Bd]4 | %22
+ [EGBd]4 | [E^GBd]4 | [E^GB^d]4 |]"^F" [F_ABd]4 | [F_AB_e]4 | [F_Ac_e]4 | [FAc_e]4 | [FAce]4 |] %30
+"^F#" [^FAc_e]4 | [^FAce]4 | [^FA^ce]4 | [^F^A^ce]4 | [^F^A^cf]4 |]"^G" [G_B_de]4 | [G_B_df]4 | %37
+ [G_Bdf]4 | [GBdf]4 | [GBd^f]4 |]"^Ab" [_ABdf]4 | [_ABd_g]4 | [_AB_e_g]4 | [_Ac_e_g]4 | %44
+ [_Ac_eg]4 |]"^A" [Ac_e_g]4 | [Ac_eg]4 | [Aceg]4 | [A^ceg]4 | [A^ce^g]4 |]"^Bb" [_B_deg]4 | %51
+ [_B_de_a]4 | [_B_df_a]4 | [_Bdf_a]4 | [_Bdfa]4 |]"^B" [Bdf_a]4 | [Bdfa]4 | [Bd^fa]4 | [B^d^fa]4 | %59
+ [B^d^f^a]4 |] %60

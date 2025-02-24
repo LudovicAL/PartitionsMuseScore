@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"Em7" G3 D E2 DB, | G,A,B,D EGDB, | G,A,B,D GABd | gabg"D" eaaf |"Em7" gbag efge | dged B^cde | %6
+ g2"D" fa"Em7" gedB |"D7" AcBA"Em" GEED ::"Em7" E2 BE dEBE | Ed^cB"D" AFDF |"Em" PE3 F GFGB | %11
+"D" AF (3FFF DFAF |"Em7" EBBA PB3 B | BAGA B^cde |"D" f2 af"Em" gfe^c |"D" dBAF"Em7" GEED :| %16

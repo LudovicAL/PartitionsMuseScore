@@ -1,0 +1,19 @@
+X:1
+T:Partition sans titre
+C:Compositeur / Arrangeur
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="Violon" snm="Vln."
+V:1
+"Bm" f2 df Bd | F3 F Bd | fF Bd gd | fd df Bd | f2 df Bd | F3 F Bd | fF Bd gf |"A7" ge ee Be | %8
+"A7" g2 eg Be | G3 G Be | gG Be ae | ge eg Be | g2 eg Be | G3 F cd | e2 ce dc |1"Bm" dB BG GF :|2 %16
+"Bm" dB BF FF |:"A" cF FF ce |"Bm" dF FF Bd |"A" cF FF cF |"Bm" Bc de fF |"A" cF FF ce | %22
+"Bm" dF FF Bd |"A" cF ce dc |"Bm" B z [Bb] z z2 ::"Bm" f2 df Bd | f3 F GF | ff df Bd | f3 F GF | %29
+ ff df GF | ff df GF | ff df Bd |"A7" (g4 g)f |"A7" gg eg Be | g3"Bm" F GF |"A7" gg eg Be | %36
+ g3"Bm" F GF |"A7" gg eg GF | gg eg GF | ee ce dc |"Bm" dB BG GF ::"A" cF FF ce |"Bm" dF FF Bd | %43
+"A" cF FF cF |"Bm" Bc de fF |"A" cF FF ce |"Bm" dF FF Bd |"A" cF ce dc |"Bm" B z [Bb] z z2 :: %49
+"Bm" f2 df Bd | F3 F Bc | dF Bc dB |"A" ce Fc Fc | e3 d ce |"Bm" F3 F cd |"A" e2 ce dc |1 %56
+"Bm" dB BG GF :|2"Bm" d2 B2 B2 |:"A7" g2 eg eg |"Bm" f2 df df |"A" e2 ce ce |"Bm" Bc de fd | %62
+"A7" g2 eg eg |"Bm" f2 df df |"A" eF ce dc |"Bm" B z [Bb] z z2 :| %66

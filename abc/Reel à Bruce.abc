@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"D" A2 FA dAfd | A2 FA dAfd |"A" cdef gece |"D" defg afdB |"D" A2 FA dAfd | A2 FA dAfd | %6
+"A" cdef gece |"D" dfec d4 ::"G" B2 GB eBgB |"D" A2 FA dAfd |"A" cdef gece |"D" defg afdA | %12
+"G" B2 GB eBgB |"D" A2 FA dAfd |"A" cdef gece |"D" dfec d4 :| %16

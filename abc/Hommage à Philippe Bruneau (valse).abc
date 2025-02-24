@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+ d cB |"D" AF DF BF | A3 d cB | AF DF BF |"G" G3 d cB |"A" cB Ac BA | c3 d cB | AB AG FE |1 %8
+"D" F3 :|2"D" D3 |:"D" d Ad | fd Ad Ad | fd Ad Ad |"A7" ge ce Ae | ge ce Ae |"D" af df Af | %16
+ af df Af |"A7" ge cA Bc |"D" d3 :| %19

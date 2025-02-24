@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:1
+"F" Acfa g2 f2 | Acfa g2 f2 | a3 a g2 f2 |"Bb" BcBA B4 |"C" EGce d2 c2 | EGce d2 c2 |1 %6
+"F" A2 B2 c2 d2 |"C" e2 f2 g2 a2 :|2 e2 f2 g2 a2 | b2 a2 g2 f2 |:"F" a3 f a3 f |"Bb" g2 b2 d4 | %12
+"C" g3 e g3 e |"F" fgfd c2 Ac |"F" a3 f a3 f |"Bb" g2 b2 d4 |"C" g3 e g3 e |"F" fgfe f4 :| %18

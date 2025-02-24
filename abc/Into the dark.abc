@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"Em" BEED E2 GA | BEED EDB,D | EDB,D EDB,D |"D" A4 A2 GA |"Em" BEED E2 GA | BEED EDB,D | %6
+"D" aged"Em" gedB |1 e6 GA :|2 e8 ||"Em" d4 c4 | B4 A2 G2 |"D7" F2 c4 ([Fc]2 | [Fc]8) | f4 e4 | %14
+ d4 e2 (c2 | (c8) | c8) |"Em" FGBG GBFG | BFG(B B4) |"D7" GAcG AcGA |"Em" BGA(c"D7" c4) | %21
+"Em" GBdA"D" BdAB | dAB(d d4) | aged"Em" gedB | e8 |] %25

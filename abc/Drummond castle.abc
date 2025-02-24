@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:1
+"Am" ABA a3 | age"G" g3 | c2 c edc | Bdg dBG |"Am" ABA a3 | age"G" g3 | ege deg |1 edB"Am" A2 E :|2 %8
+ edB"Am" A2 B |:"Am" c2 c cec |"G" d2 d ded |"Am" c2 c edc |"G" Bdg dBG |"Am" c2 c edc | %14
+"G" deg"Am" a2 g | ege"G" deg |1 edB"Am" A2 B :|2 edB"Am" A2 E |] %18

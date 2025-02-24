@@ -1,0 +1,15 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+ DE |"D" FDDD D2 EF |"A7" GEEE E2 EF | GECE A,CEC |"D" DFAB AFDE |"D" FDDD D2 EF |"A7" GEEE E2 EF | %7
+ GECE A,CEF |1 GABc"D" d2 DE :|2 GABc"D" d3 A |:"D" dedc"G" BcdB |"D" ABAF"A7" GFEG | %12
+"D" FDDD A,DDD | FGAF"A7" GECE |"D" dedc"G" BcdB |"D" ABAF"A7" GFEG |"D" FDDD A,DDD |1 %17
+ FGAF"A" ECA,A :|2 FGAF"A" E3 A |:"D" dcdf"A7" edeg |"D" fefa"G" gfga |"D" aDDD A,DDD | %22
+ fafd"A" ecBA |"D" dcdf"A7" edeg |"D" fefa"G" gfga |"D" aDDD A,DDD |1 fafd"A" e2 Ac :|2 %27
+ fafd"A" eAce |:"D" afef dDFA | afef dDFA | afef dDFA | afef dA"A"cA |"D" afef dDFA | afef dDFA | %34
+ afef dDFA |1 afef dA"A"cA :|2 afef"A" e2 DE |] %37

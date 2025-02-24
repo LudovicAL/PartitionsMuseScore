@@ -1,0 +1,13 @@
+X:1
+T:Title
+L:1/8
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"Em" E3 F GA | B3 ^A Bc | B2 e3 f | g2 e4 | E3 F GA | B3 ^A Bc | B2 e3 f |"B7" ^d6 |"B7" ^D3 E FG | %9
+"C6" A6 |"B7" ^D3 E FG |"C6" A6 |"B7" B3 ^A Bc | B3 =A GF |"Em" G3 A GF |1 E4"B7" B,2 :|2 E6 |: %17
+"Am" c3 B ce | A3 ^G Ac |"D" F3 E FA | D6 |"G" B3 A Bd | G3 F GB |"C" E3 ^D EG | C6 | %25
+"B7" ^D3 E FG |"C6" A6 |"B7" ^D3 E FG |"C6" A6 |"B7" B3 ^A Bc | B3 =A GF |"Em" G3 A GF |1 E6 :|2 %33
+ E4"B7" B,2 |] %34

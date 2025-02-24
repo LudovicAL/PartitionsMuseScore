@@ -1,0 +1,14 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:1
+"Dm" d2 d2 AddA | dAde fedc | d2 d2 Addf |"A7" edef gefg |"Dm" a2 af f/f/f af | %5
+"A7" g2 ge e/e/e ge |"Dm" f2 fd d/d/d fd |"A" eA A/A/A"Dm" fgfe :|"Dm" dA A/A/A dAeA | %9
+ fA A/A/A dAfA |"A7" eA A/A/A gAeA | A/A/A eA gAeA |"Dm" dA A/A/A dAeA | fA A/A/A dAfA | %14
+"A" eA A/A/A BA A/A/A | A/A/A A/A/A BA A/A/A |"Dm" dA A/A/A dAeA | fA A/A/A dAfA | %18
+"A7" gd d/d/d gdad | bd d/d/d gdbd |"Dm" agfa"A7" gfeg |"Dm" fedf"A" ed^ce |"Dm" dA A/A/A BAGB | %23
+ AGFA GFEF |] %24

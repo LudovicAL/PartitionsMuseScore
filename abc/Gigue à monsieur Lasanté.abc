@@ -1,0 +1,10 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"G" B2 AB"D7" cA"G"BG | DFGA B2 AB |1"D7" cAdc"G" B2 DG :|2"D7" cAdc"G" B3 B |:"D" ABcd | %5
+"C" e3 e efec |"D" A3 A ABcd |"C" e2 g2"D" fgaf |"G" gedc BG"D"AF |1"G" G3 B :|2"G" G2 DG |] %11

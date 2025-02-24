@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"G" G3 A Bd | G3 PB AF |"C" E2 PED EF |"G" ED D2 BA |"G" G3 A Bd | G3 PB AF |"C" E2 PED GF |1 %7
+"G" G4 Bd :|2"G" G3 A Bd |:"G" g3 f ed | B2 PBA Bd |"C" E2 PED EF |"G" ED D2 Bd |"G" g3 f ed | %14
+ B2 PBA BA |"C" E2 PED GF |1"G" G3 A Bd :|2"G" G4 Bd |] %18

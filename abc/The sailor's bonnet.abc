@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"D" PA2 FA df Pf2 | dfec"G" dBBd |"D" PA2 FA dfec | dBAF AD D2 ::[M:4/4]"D" fa (3aaa afdf | %5
+ afef"G7" dB PB2 |"D" fb (3bbb bafa | bfaf fe"A" e2 |"D" bf Pf2 afef | gfec"G" dBBD | %10
+"D7" PA2 FA dfec | dBAF AD D2 :| %12

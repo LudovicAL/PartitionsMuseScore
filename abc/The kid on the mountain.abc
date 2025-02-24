@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:9/8
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"Em" EFE FEF G2 F | E3"D" cBA"Em" BGE | EFE FED G2 A | BAG FAG FED ::"Em" BGB"D" AFA"Em" G2 D | %5
+ GAB dge"D" dBA |"Em" BGB"D" AFA"Em" G2 A | BAG"D" FAG FED ::"Em" gfg efe e2 f | gfg efg"D" afd | %10
+"Em" gfg efe e2 a | bag"D" fag fed ::"Em" eBB e2 f g2 f | eBB efg"D" afd |"Em" eBB e2 f g2 a | %15
+ bag"D" fag fed ::"Em" edB dBA G2 D | GAB dge dBA | edB dBA G2 A | BAG"D" FAG FED :| %20

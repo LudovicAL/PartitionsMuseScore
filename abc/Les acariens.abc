@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"Am7" EAc"G" BAG |"Am" EFG"G7" FED |"Am" EAc"G" BAG |"Am7" EFG"G7" F3 |"Am" EAc"G" BAG | %5
+"Am7" EFG FGA |"G" BcB"Am" A2 G |1"G" GAB"Am" A2 z :|2"G" GAB"Am" A2 B |:"Am" cBA cec | %10
+"G" BdB GAB |"Am" cBA cef |"G" gfg fed |"Am" cBA cec |"G" BdB GAB |"Am" cde"G" dcB |1 %16
+"Am" cBc A2 B :|2"Am" cBc A2 z |] %18

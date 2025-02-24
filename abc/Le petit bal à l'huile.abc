@@ -1,0 +1,14 @@
+X:1
+T:Le petit bal à l'huile
+C:Marcel Messervier
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Violon" snm="Vln."
+V:1
+"D" DEFG AAFA | BAFA ddDD |"A7" CDEF GECE |"D" DFAF ABAF |"D" DEFG AAFA | BAFA ddDD | %6
+"A7" CDEF GECE |1"D" DFEC D4 :|2"D" DFEC D3 d | dedc |:"G" B2 GB dGBd | d2 d2 c2 B2 | %12
+"D" A2 FA dFAd | A2 f2 e2 d2 |"A" c2 a a2 aaa | a2 g2 f2 e2 |"D" d3 A BAFA | dcde fedc | %18
+"G" B2 GB dGBd | d2 d2 c2 B2 |"D" A2 FA dFAd | A2 f2 e2 d2 |"A" c2 a a2 aaa | a2 g2 f2 e2 |1 %24
+"D" dDEF GABc | d3 e fedc :|2"D" dAAA BAFA | d4 |] %28

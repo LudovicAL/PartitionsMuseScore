@@ -1,0 +1,18 @@
+X:1
+T:Partition sans titre
+C:Compositeur / Arrangeur
+L:1/8
+M:3/4
+I:linebreak $
+K:D
+V:1 treble nm="Violon" snm="Vln."
+V:1
+ a2 aA dg | gb bb gb | a2 ab af | d3 A df | eA Ad ef | Pg2 Pf2 Pe2 |1 Pf2 Pd2 PB2 | AD FA df :|2 %8
+ dB AG FE | D2 (3ADF (3Adf :|3 dB AG FE | D2 d2 c2 |: B3 D GB | de d3 B | AD A,D FA | d2 dB GE | %16
+ c2 cD EF | G3 B BA | F3 E FG | F2 E2 D2 | B2 DG Bd | de d3 B | AD FA df | fa Paf dB | %24
+ [Bg]2 [Bg]A (3Bcd | e2 g2 Pf2 | d2 dc de |1 d2 c2 =c2 :|2 dA FB dg |: fg fd Bd | cA EA cf | %31
+ ef ec Ac |1 B2 FB dg :|2 B2 df ab |: a2 Paf df | eA Ac ef |1 g2 f2 a2 | f2 df ab :|2 g2 (3gfe dc | %39
+ B2 d3 c || B2 FB FB | B2 d2 c2 | B2 GB GB | B2 e3 d | Pc2 Ac cA | c2 Bc de | f2 df df | f3 f ef | %48
+ g2 Be eg | gb b2 eg | fA Ad df | fa a2 Bd | c3 A FG | F2 e2 d2 | B2 FB FB | BD FB dc | BD FB DF | %57
+ BD FB dc | BD GB DG | BD GB ed | cA EA ce | eA Bc de | fA df Ad | fB cd ef | g2 Be eg | gb b2 eg | %66
+ fA Ad df | fa Pa2 Bd | c2 PcA FG | F2 e2 d2 | B2 FB FB | B2 BA df |] %72

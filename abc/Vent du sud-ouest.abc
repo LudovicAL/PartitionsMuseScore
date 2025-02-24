@@ -1,0 +1,19 @@
+X:1
+T:Partition sans titre
+C:Compositeur / Arrangeur
+%%score [ [ 1 | 2 ] ]
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Violon 1"
+V:2 treble nm="Violon 2"
+V:1
+"Am" a2 ea g2 eg |"D" ^f2 df"Am" edcA | c2 Ac"Em7" B2 EB |"Am" AECE ABce |"Am" a2 ea g2 eg | %5
+"D" ^f2 df"Am" edcA |1 c2 Ac"Em7" B2 EB |"Am" A3 B cdeg :|2 c2 Ac"Em7" BGEB |"Am" AECE A3 c |: %10
+"Am" Accc Accc | Accc dcBA |"E7" ^GBBB EBBB | ^GBEB c2 B2 |"Dm" FAAA DAAA | FADA BA^GF | %16
+"E7" E^GGG BGGG |1"Am" E^GBc"E7" Bcde :|2"Am" EDCB, A,3 z |] %19
+V:2
+ A,2 AA, A,2 EA, | ^F3 A GFED | E2 A,E D2 B,G, | A,3 B, CB,A,G, | A,2 AA, A,2 EA, | ^F3 A GFED | %6
+ E2 A,E D2 B,G, | A,3 B, CB,A,G, :| E2 A,E D2 B,G, | A,ECE A,3 z |: A,EEE A,EEE | A,EEE FEDC | %12
+ B,EEE DEEE | B,EDE DE B,2 | DFFF DFFF | DFDF GFED | ^GEEE BEEE | ^GEGE GA B2 :| EDCB, A,3 z |] %19

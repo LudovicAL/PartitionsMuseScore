@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"D" D2 D FED | AFD dAF | D2 D FED |"A" CA,C GFE |"D" D2 D FED | AFD d2 d |"G" Bcd"D" AFD | %7
+"A" GEC"D" D3 ::"D" d3"G" Bcd |"A" ced cBA |"D" dcd"G" Bcd |"A" edc"D" d3 |"G" dcB"D" AGF | %13
+"G" BAG"D" FED |"G" Bcd"D" AFD |"A" GEC"D" D3 :| %16

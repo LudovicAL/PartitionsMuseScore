@@ -1,0 +1,12 @@
+X:1
+T:Partition sans titre
+C:Compositeur / Arrangeur
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Violon" snm="Vln."
+V:1
+"Em" GEE BEE | GEE BAG |"D" FDD ADD | dcd AGF |"Em" GEE BEE | GEG B2 c |"D" dcd AGF |"Em" GEE E3 :: %8
+"Em" Bcd e2 f | e2 f edc | Bcd e2 f | edB"D" d3 |"Em" Bcd e2 f | e2 f edB |"D" dcd AGF | %15
+"Em" GEE E3 :| %16

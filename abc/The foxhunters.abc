@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"G" d2 BG d2 BG | d2 BG"D" AGEG |"G" d2 BG dGBG |"D" AcBG AGEG ::"G" D PD2 B BAGE | DGBG"D" AGEG | %6
+"G" D PD2 B BAGB |"D" AcBG AGEG ::"G" gedB GABd | gdBd"D" eaaf |"G" gedB GABG |"D" ABcd eA PA2 :: %12
+"G" dggf Pg2 ge | dggd"D" egdB |"G" dggf Pg2 gd |"D" egdB AGAB ::"G" G2 BG dGBG | GABG"D" AGAB | %18
+"G" PG2 BG dGBd |"D" egdB AGAB :| %20

@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:1
+"F" Fcc cAc | z dc AGF | Fcc cAc | z fe dcA |"F" Fcc cAc | z dc AGF |"Bb" z BA GFD | z BA GFD :: %8
+"Bb" dBB"C" ec"F"f | z cc dcA |"Bb" dBB"C" ec"F"f | z"C" ga gfe |"Bb" dBB"C" ec"F"f | z cc dcA | %14
+"Bb" z BA GFD | z BA GFD :| %16

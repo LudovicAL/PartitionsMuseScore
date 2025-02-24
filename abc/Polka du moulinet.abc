@@ -1,0 +1,10 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:1
+"Am" A>B AB cece |"G7" dBfB PdBGB |"Am" A>B AB cece |"G" dBGB"Am" A2 A2 ::"Am" A2 a2 gecc | %5
+"G7" dBfB PdBGB |"Am" A2 a2 gecc |"G" dBGB"Am" A2 A2 :| %8

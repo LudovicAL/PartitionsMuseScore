@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Voice"
+V:1
+"A" e3 d ceBe | AEAc e2 ed | cAce a2 a=g |"D" faea dcBA |"A" e3 d ceBe | AEAc e2 dc | %6
+"E" BEBc dBed |"A" ceBe A4 ::"A" a3 a aba=g |"D" fdfa fAdf |"E" e3 e efed |"A" cAce cAce | %12
+"A" a3 a aba=g |"D" fdfa fAdf |"E" e3 e efed |"A" ceBe A4 :| %16

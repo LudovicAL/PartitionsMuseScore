@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"D" Pa3 f Pg3 e | fedf ecAb | a Pd3"G" bd"D"ad |"A7" cdef g2 fg |"D" agfa"G" gfeg | %5
+"D" fedf"A7" ecAB | (3cBA eA fAef |1 gece"D" defg :|2 gece"D" d2 AG |:"D" FAde"F" =f2 df | %10
+ e P=c3"G" DEGc |"D" ADFA dedB |"A" ceag"D" fdAG |"D" FAde"F" =f2 df | e P=c3"A7" gceg | %15
+ aged (3cBA ef |1 gece"D" d2 AG :|2 gece"D" defg |] %18

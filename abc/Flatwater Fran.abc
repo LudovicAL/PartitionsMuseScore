@@ -1,0 +1,14 @@
+X:1
+T:Title
+L:1/8
+M:3/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"G" G2 G2 DE | G2 G2 Bd |"C" e2 d2 G2 |"G" B4 DE | G2 G2 DE |"Am" A2 A2 GA |"Em" B2 AG ED | %7
+"C" E4 DE |"G" G2 G2 DE | G2 G2 Bd |"C" e2 d2 g2 |"G" B4 dB |"Am" A2 AG AB |"Em" AG E2 GE | %14
+"C" DE G2 G2 |1"G" G4 DE :|2"G" G4 Bd |:"C" e2 d2 G2 |"G" B4 Bd |"C" e2 d2 G2 |"G" B4 Bd | %21
+"C" e2 d2 g2 |"Em" B2 dB AG |"Am" A2 AG AB |"D" A4 Bd |"C" e2 d2 g2 |"G" B2 dB AG |"D" A2 d3 c | %28
+"Em" B3 B AG |"Am" EA AG AB |"Em" AG E2 GE |1"C" DE G2 G2 |"G" G4 Bd :|2"C" DE G2"D" A2 | %34
+"G" G4 DE |] %35

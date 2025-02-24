@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:1
+"F" F2 CF A2 FA | c=Bcd cAGF |"C" E2 cE EdEE | cEEd EEcE |"F" F2 CF A2 FA | c=Bcd cAGF | %6
+"C" EcEc cdcB |1"F" AFFF F2 (3CDE :|2"F" AFFF Fcde |:"F" f2 fg afcA |"Bb" BABc dfed | %11
+"C" cdef gfeg |"F" fafd cABd |"F" c2 =Bc afcA |"Bb" B2 AB dfed |"C" cded cBGE |1"F" FAGE Fcde :|2 %17
+"F" FAGE F2 (3CDE |] %18

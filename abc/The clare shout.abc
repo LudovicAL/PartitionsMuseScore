@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"D" AFD DED | DED B,DA, | DFA dfa | baf"G" edB |"D" AFD DED | DED B,DA, |"G" B,EE"A" EDE |1 %7
+"D" FDC DdB :|2"D" FDC D2 E |:"D" FAA BAD | FAA BAF |"G" GDB, BGD | dBG edB |"D" FAA BAD | %14
+ FAA BAF |"G" GBd"A" AFE |1"D" FDC D2 E :|2"D" FDC DdB |] %18

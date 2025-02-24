@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"Am" A2 e edB | A2 A AGE | A2 A AGE |"G" GAG DEG |"Am" A2 e edB | A2 A AGE |"G" GAG DEG |1 %7
+ BAG"Am" AEG :|2 BAG"Am" ABd |:"Am" e2 a ged | c2 B"G" BAG | PB3 BAG | g2 f edB |"Am" e2 a ged | %14
+"Am" c2 B"G" BAG | Bge dBG |1"Am" EFG ABd :|2"Am" EFG A3 |] %18

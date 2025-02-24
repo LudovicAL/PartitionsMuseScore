@@ -1,0 +1,10 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:1
+"C" EGAB cG (3GGG | EGBG c2 GF | EGAB cEGc |1"G" d2 ed"A" ^cAAG :|2"G" d2 ed"A" ^cde^f |: %5
+"C" g2 ec Gce^f | gece"F" (3aaa ga |"C" ecgc"F" abag |1"A" ed^ce"D" d=cA^f :|2"A" ed^ce"D" d=cAG |] %10

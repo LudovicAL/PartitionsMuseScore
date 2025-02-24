@@ -1,0 +1,22 @@
+X:1
+T:Partition sans titre
+C:Compositeur / Arrangeur
+L:1/16
+M:none
+I:linebreak $
+K:G
+V:1 treble nm="Violon" snm="Vln."
+V:1
+"^Flick tap" (EF E4) (FG F4) (GA G4) (AB A4) | (Bc B4) (cd c4) (de d4) (ef e4) | %2
+ (ef e4) (de d4) (cd c4) (Bc B4) | (AB A4) (GA G4) (FG F4) (EF E4) | %4
+"^Long flick tap" (EG E4) (FG F4) (GA G4) A4 | (Bd B4) (cd c4) (de d4) e4 | %6
+ e4 (de d4) (cd c4) (Bc B4) | A4 (GA G4) (FG F4) (EF E4) | %8
+"^Roll" (EFED E4) (FGFE F4) (GAGF G4) (BcBA B4) | (BcBA B4) (GAGF G4) (FGFE F4) (EFED E4) | %10
+"^Long roll" (EGED E4) (FGFE F4) G4 A4 | (BdBA B4) (cdcB c4) d8 | (cdcB c4) (BdBA B4) A4 G4 | %13
+ (FGFE F4) (EGED E4) E8 |"^Half roll" (3(FED E4) (3(GFE F8) | (3(AGF G4) (3(cBA B8) | %16
+"^Bow triplet / cran / shake / stutter" (!ᴨ!E!ᴠ!E !ᴨ!E4) F4 G4 (!ᴠ!A!ᴨ!A !ᴠ!A4) | %17
+ B4 c4 (!ᴨ!d!ᴠ!d !ᴨ!d4) e4 | f4 (!ᴠ!e!ᴨ!e !ᴠ!e4) d4 c4 | (!ᴨ!B!ᴠ!B !ᴨ!B4) A4 G4 (!ᴠ!F!ᴨ!F !ᴠ!F4) | %20
+"^Nom inconnu" D4 (EF G4) E4 (FG A4) | A4 (Bc d4) B4 (cd e4) | B4 (cd e4) A4 (Bc d4) | %23
+ E4 (FG A4) D4 (EF G4) |"^Hammer-on" (E F4) G4 (A B4) c4 | (d e4) f8 (e f4) | e4 (d e4) d4 (c d4) | %27
+ c4 (B c4) B4 (A B4) |"^Cut" (F E4) F4 (A G4) A4 | (c B4) c4 (e d4) e4 | d4 (c B4) c4 (B A4) | %31
+ B4 (A G4) A4 (G F4) |] %32

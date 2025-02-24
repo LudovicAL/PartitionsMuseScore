@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"Em" EFGA BAGB |"D" A2 FA DAFA |"Em" EFGA BAGB |1"D" A2 D2"Em" E4 :|2"D" A2 D2"Em" E2 e2 |: %5
+"G" g2 eg"D" fede |"G" g2 eg"D" fede |"G" g2 eg"D" fed^c |"G" BAGF"Em" E2 e2 |"G" g2 eg"D" fede | %10
+"G" g2 eg"D" fede |"G" g2 eg"D" agfe |1"G" dcBA G2"Em" e2 :|2"G" dcBA G2 D2 |] %14

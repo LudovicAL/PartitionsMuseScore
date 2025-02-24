@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:A
+V:1 treble nm="Voice"
+V:1
+"E" BGE EDB, |"D" DEF"E" EGB | e3 geB | edB"D" AFA |"E" Bec d2 B |"A" cAB"E" GEF | %6
+"G" =GDB,"E" BA^G |1"B7" AFB"E" EGA :|2"B7" AFB"E" EGB |:"E" ege d2 B |"A" cAE"D" AFD | %11
+"E" B,EG"A" ABA |"B" FBG ABc |"E" BGB e2 c |"D" dAF DFA |"E" GBG"D" AFB |1"E" EFE EGB :|2 %17
+"E" EFE EGA |] %18

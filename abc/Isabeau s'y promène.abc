@@ -1,0 +1,15 @@
+X:1
+T:Partition sans titre
+C:Compositeur / Arrangeur
+L:1/8
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Violon" snm="Vln."
+V:1
+ B, |"Em" E2 G"D" F2 A |"Em" G3"D" F3 |"Em" EFG E2 D | [G,E]6 |"Em" EEE B2 c | BGE"D" A2 B | %7
+w: I-|sa- beau s'y pro-|mè- ne,|Le long de son jar-|din.|Le long de son jar-|din, Sur le bord de|
+ (A2 G) F3 |"Em" EEE B2 c | BGE"D" A2 F | DFA GFG |"Em" (E3 E2) |] %12
+w: l'î _ le.|Le long de son jar-|din, Sur le bord de|l'eau, Sur le bord du rui-|sseau _|
+"^Elle fit une rencontre,\nDe trente matelots.\nLe plus jeune des trente,\nIl se mit à chanter.\nLa chanson que tu chantes,\nJe voudrais la savoir.\nEmbarque dans ma barque,\nJe te la chanterai.\nQuand elle fut dans la barque,\nElle se mit à pleurer.\nQu'avez-vous dont la belle,\nQu'à vous tant pleurer?\nJe pleur mon anneau d'or,\nDans l'eau-z-il est tombé.\nNe pleurez point la belle,\nJe vous le plongerai\nDe la première plonge,\nIl n'a rien ramené.\nDe la seconde plonge,\nL'anneau-z-a voltigé.\nDe la troisième plonge,\nLe galant s'est noyé." z6 |] %13
+w: |

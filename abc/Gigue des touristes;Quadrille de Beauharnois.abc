@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:C
+V:1 treble nm="Voice"
+V:1
+"C" gec"Am" c2 c |"Dm" dBG"G7" G2 F |"Em" EFG"Am" ABc |"Dm" edc"G" d2 e |"C" gec"Am" cBc | %5
+"Dm" dBG"G7" GFD |"Em" EFG"Am" ABc |"G7" dcB"C" c2 e ::"C" gec c2 a |"F" age"C" c2 e | %10
+ gec"Am" cBc |"Dm" dBG"G" G2 e |"C" gec c2 a |"F" age"C" cec | gec"G" BdB |"C" c3- c2 e :| %16

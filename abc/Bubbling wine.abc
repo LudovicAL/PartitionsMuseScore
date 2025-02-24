@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"Em" BE PE2 d2 ^cd | BE PE2"D" ADFA |"Em" GBEF GABd | g2 fg edBA |"G" B=cBA GBdB |"D" A2 ^GB ADFA | %6
+"Em" BE PE2 GBe^c |"D" dBA=c"Em" BE PE2 ::"Em" Be Pe2 gebe |"D" Ad Pd2 fdad |"Em" Beed efge | %11
+"D" fgaf"Em" gfef |"Em" g2 fg edB^c |"D" defe dBA=c |"Em" BE PE2 GBe^c |"D" dBA=c"Em" BE PE2 :| %16

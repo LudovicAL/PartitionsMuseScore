@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/4
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"G" G B B/c/d/B/ | G B B/c/d/B/ | G B"C" e3/2 B/ |"D" d c"C" c3/2 A/ |"D" F A A/B/c/A/ | %5
+ F A A/B/c/A/ | d d e f |1"G" g3 D :|2"G" g3 a |:"D" a3/2 b/"G" b a | g3 f |"C" e e f g |"D" a3 b | %13
+"C" [cc']3/2 [cc']/ [cc'] a |"D" f3 e | d d e f |1"G" g ^g a _b :|2"G" g3 D |] %18

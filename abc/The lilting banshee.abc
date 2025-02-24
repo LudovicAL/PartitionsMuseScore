@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"Am" EAA EAA |"G" BAB PG2 A | Bee edB | def gfg |"Am" eAA eAA |"G" BAB PG2 A | Bee edB |1 %7
+ dBA"Am" A3 :|2 dBA"Am" A2 d |:"Am" eaa age |"G" dBA PG2 A | Bee edB | def"G" gfg |"Am" eaa age | %14
+"G" dBA PG2 A | Bee edB |1 dBA"Am" A2 d :|2 dBA"Am" A3 |] %18

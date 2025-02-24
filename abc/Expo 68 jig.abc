@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:Bb
+V:1 treble nm="Voice"
+V:1
+"Bb" d^cd BFD |"Eb" EDE G,CB, |"F" A,CF AFA | edc ABc |"Bb" d^cd BFD |"Eb" EDE G,CB, | %6
+"F" A,CF AFA |1 ecA"Bb" B2 c :|2 ecA"Bb" B2 g |:[K:F]"F" a^ga fcA |"Bb" BAB DGF |"C" EGc ece | %12
+ bag efg |"F" a^ga fcA |"Bb" BAB DGF |"C" EGc ece |1 bge"F" f2 g :|2 bge"F" f3 |] %18

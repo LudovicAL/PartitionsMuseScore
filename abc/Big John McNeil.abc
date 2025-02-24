@@ -1,0 +1,13 @@
+X:1
+T:Partition sans titre
+C:Compositeur / Arrangeur
+L:1/8
+M:4/4
+I:linebreak $
+K:A
+V:1 treble nm="Violon" snm="Vln."
+V:1
+"A" A,2 CE FECE | AECE"F#m" FECE |"A" A,2 CE FECE |"D" FAGF"A" EDCB, |"A" A,2 CE FECE | %5
+ AECE"F#m" FECE |"A" A,CB,D"D" CEDF |1"E" DFBd"A" cA A2 :|2"E" EFBd"A" cAcd |:"A" eAfA eAcd | %10
+ eAfA e2 (3agf | eAfA eAce |"E7" dedc B2 cd |"A" eAfA eAcd | eAfA e2 fg |"D" agfe fedc |1 %16
+ defg"A" a2 cd :|2"E" BAGF EDCB, |] %18

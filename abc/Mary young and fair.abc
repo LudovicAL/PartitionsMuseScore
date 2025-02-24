@@ -1,0 +1,19 @@
+X:1
+T:Title
+%%score 1 2
+L:1/8
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:2 treble nm="Voice"
+V:1
+"Em" E>FE G2 A | B2 G"D" A>GF |"Em" B2 E E>FE |"Bm" D3 z2 B, |"Em" E>F(E"C" G2) A | %5
+"G" B2 G"D" ABd |"Em" B2 G"D" AGF |1"Em" E3 z2 B, :|2"Em" E3 z2 B/d/ |:"C" e>fe"Bm" d2 c | %10
+"Em" B2 G"D" ABd |"Em" B2 E E>FE |"Bm" D3 z2 B, |1"Em" E>FE"C" G2 A |"G" B2 G"C" edc | %15
+"G" B2 G"D" AGF |"Em" E3 z2 B/d/ :|2"Em" G>FG"D" A>GA |"G" B>AB"C" g2 f/e/ |"G" B2 G"D" AGF | %20
+"Em" E3- E2 |] %21
+V:2
+ G3 E2 D | E2 G F3 | G3 G>AG | FBd fdB | G3 E2 D | E2 E F3 | EGE FED | E2 D E2 z :| E2 D E2 z |: %9
+ G3 F3 | E3 D3 | G3 G>AG | FBd fdB | G3 E2 E | D3 E3 | D3 FED | E2 D E2 z :| E2 E F2 F | %18
+ G2 G E2 z | EGE FED | E2 D E2 |] %21

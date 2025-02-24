@@ -1,0 +1,17 @@
+X:1
+T:Partition sans titre
+C:Compositeur / Arrangeur
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Violon" snm="Vln."
+V:1
+"Am" CA,EA, CA,EA, |"G" B,G,DG, B,G,DG, |"Am" CA,EA, CA,EA, |"G" B,A,G,B,"Am" A,2 A,B, | %4
+"Am" CA,EA, CA,EA, |"G" B,G,DG, B,G,DG, |"Am" CA,EA, CA,EA, |1"G" B,A,G,B,"Am" A,2 A,B, :|2 %8
+"G" B,A,G,B,"A" A,2 ^cd |:[K:D]"A" efed cdef |"G" g2 gf edcd |"A" efed cded | eaa^g a2 ef | %13
+"A" gfed cdef |"G" g2 ge dBGB |"F" =c2 Bc AGEF |1"G" GEDB,"Am" A,2 cd :|2"G" GEDB,"Am" A,2 A,B, |]: %18
+[K:G]"Am""^Variation" A2 cA eAcA |"G" G2 Bd gdBG |"Am" A2 cA eAce |"G" ddBG"Am" ABAG | %22
+"Am" A2 cA eAcA |"G" G2 Bd gdBG |"Am" A2 cA eAce |1"G" ddBG"Am" A4 :|2"G" ddBG"A" AB^cd |: %27
+[K:D]"A" efed cdef |"G" gedc BGcd |"A" efed cAcd | e a2 e a2 ef |"A" g2 ed cdef |"G" gedc B2 GG | %33
+"F" =cdcB AGEF |1"G" GFED"A" CA,cd :|2"G" GFED"Am" =CA, A,2 |] %36

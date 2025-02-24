@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"G" Gdg dBG |"D" ABd"C" [Ec]3 |"D" A2 A AGA |"G" BGE D3 |"G" GBg dBG |"D" ABd"C" [Ec]3 | %6
+"D" A2 A ABA |"G" GDB, G,2 C ::"C" Ecg c3 |"D" ABd"G" B3 |"D" A2 A AGA |"G" BGE D3 |"C" Ecg c3 | %13
+"D" ABd"G" B3 |"D" A2 A ABA |"G" GDB, G,3 :| %16

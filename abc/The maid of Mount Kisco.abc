@@ -1,0 +1,13 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"Am" EA PA2 BA PA2 | EA PA2 BGAG |"G" EG PG2 AG PG2 | EG PG2 EGDG |"Am" EA PA2 BAAG | %5
+ EA PA2"G" BABd | efge"Am7" afge |1"G" dBGB"Am" PA3 G :|2"G" dBGB"Am" A2 dB |:"Am" PA3 B"G" dBAB | %10
+ G2 BG DGBG |"Am" PA3 B"G" dGBd |1"Am7" e Pg3"G" gedB :|2"Am7" edge"G" d2 Bd |: %14
+"Am" ea Pa2"G" bgaf | gfed GABd |"Am" ea Pa2"G" bgaf | gede g2 eg |"Am" Pa3 f"G" Pg3 e | %19
+ dedB GABd |"Am7" eA PA2 efge |1"G" dBGB"Am" A2 Bd :|2"G" dBGB"Am" PA3 G |] %23

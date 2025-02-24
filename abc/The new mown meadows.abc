@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"Em" BEED E2 FA | BdcA BAFA | BEED E2 DE |"D" A2 BA FEFA |"Em" BEED E2 FA | BdcA BAFA | %6
+"D7" d3 B c3 B |1 AcBA FEFA :|2 AcBA FAdf |:"A" e2 ce fecf | e2 cA BAFf | e2 ce fecB | %12
+ AcBA"D" FEdf |"A" e2 ce fecf | eAcA BAFA |"D" d3 B"A" c3 B |1 A2 BA"D" FEdf :|2 AcBA"D" FEFA |] %18

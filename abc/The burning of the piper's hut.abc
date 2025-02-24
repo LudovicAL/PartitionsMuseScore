@@ -1,0 +1,12 @@
+X:1
+T:Partition sans titre
+C:Compositeur / Arrangeur
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Violon" snm="Vln."
+V:1
+"Em" EFGA B3 B | BABd B2 AG |"D" F2 D A2 D2 (F | F)GAB A2 GF |"Em" EFGA B3 B | BABd B2 AG | %6
+"D" F2 D B2 A2 G | F2 E2 E3 D ::"Em" EFGA BE E2 | dE E2 B2 AG |"D" F2 D A2 D2 (F | F)GAB A2 GF | %12
+"Em" EFGA BE E2 | dE E2 B2 AG |"D" F2 D B2 A2 G | F2 E2 E3 D :| %16

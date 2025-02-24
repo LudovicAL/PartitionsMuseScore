@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:A
+V:1 treble nm="Voice"
+V:1
+"A" A,CE AED | CEA c2 A | cef ecA |"E" B3 B2 A |"E" GAG FGF | EGB eBe | gfe dcB |"A" c3 c2 G, | %8
+"A" A,CE AED | CEA c2 E | AcB AG=G |"D" F3 F2 A |"D" def fed |"A" cea ecA |"E7" dBG EFG |1 %15
+"A" AcB A2 G, :|2"A" AcB AG=G |:"D" FAd dcd | fdf afd |"A" c2 e ABc | E2 A CDE |"D" D3 DEF | %22
+"E" EFE EFG |1"A" AGA BAB |"Cdim" =cBc"A" ^cA=G :|2"A" Adc"E" BAG |"A" AcB A2 G, |] %27

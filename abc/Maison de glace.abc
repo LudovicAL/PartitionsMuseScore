@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"D" D3 DEF | ABA AFA |"G" (AB)B Bcd |"A" cBA"G" GFE |"D" D2 A, DEF | ABA AFA |1"G" (AB)B BAG | %7
+"D" F3"A" EFE :|2"G" (AB)B Bcd |"A" c3 cAF |:"G" B3 Bcd | (AB)B Bcd |"D" fed"A" edc |"D" dcA dcA | %14
+"G" (AB)B Bcd | (AB)B Bcd |"D" fed"A" edc |1 Adc"D" (d2 c) :|2 Adc"D" d3 |] %19

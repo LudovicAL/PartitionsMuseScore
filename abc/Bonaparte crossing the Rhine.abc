@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"Am" A2 AB AGEG | cdec"G" d2 ef/g/ |"Am" aged cded | cAGE"G" G2 cB |"Am" A2 AB AGED | %5
+ cdec"G" d2 eg |"Am" aged cA"G"BG |1"Am" A2 AA A2 EG :|2"Am" A2 AA A2 eg |:"Am" aged cdeg | %10
+ agec"G" d2 ef/g/ |"Am" aged cded | cAGE"G" G2 EG |"Am" A2 AB AGEG | cdec"G" d2 eg | %15
+"Am" aged cA"G"BG |1"Am" A2 (3cBG A2 ef/g/ :|2"Am" A2 (3cBG A2 EG |] %18

@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"G" GFGA GEDC | B,G,"D"A,C"G" B,G, G,2 | B,DGB"C" cBAG |"D" FGAB A2 (3DEF |"G" GFGA GEDC | %5
+ B,G,"D"A,C"G" B,G, G,2 | B,DGB"C" cBAG |1"D" FDEF"G" G2 (3DEF :|2"D" FDEF"G" GABc |: %9
+"G" d3 e dcBd | g2 ga gedc | BGBd"C" cBAG |"D" FGAB A2 Bc |"G" d3 e dcBd | gfga gedc | %15
+ BGBd"C" cBAG |1"D" FDEF"G" GABc :|2"D" FDEF"G" G2 (3DEF |] %18

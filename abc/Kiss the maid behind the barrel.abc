@@ -1,0 +1,13 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"G" DG PG2 AG (3GGG | DG PG2"D" cAFA |"G" DG PG2"D" ADFA | defd cAFA :|"G" dg Pg2"D" aggf | %5
+"G" dg Pg2"D" agfe | df Pf2 af Pf2 | defd cAFA |"G" dg Pg2"D" agfg | a2 ag Pf2 fg | afge fde^c | %11
+ d2 eg fdcA |:"G" G2 dG BGdG | PG2 dB"D" cAFA |1"G" G2 dG BGBc |"D" defd cAFA :|2 %16
+"G" PB3 G"D" ADFA | defd cAFA |:"G" B3 G PA2 AG | BABd gedc |1 B2 GB"D" ADFA | defd cAFA :|2 %22
+ BG PG2"D" ADFA | defd cAFA |] %24

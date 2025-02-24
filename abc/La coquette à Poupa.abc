@@ -1,0 +1,10 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"G" g2 dg bgde |"D" f2 df afdf |"G" g2 dg bgde |"D" fdAc"G" BG G2 ::"G" GABc d2 BG | dGBd cBAG | %6
+"Dm" =FEDE FGFE | =FGAB"F" c2 AF | c=FAc"G" B2 A^F |[M:2/4] G3 G :| %10

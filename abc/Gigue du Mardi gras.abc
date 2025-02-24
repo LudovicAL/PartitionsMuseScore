@@ -1,0 +1,14 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"G" g2 dg b2 gb |"D" a2 fa"G" gfed |[M:2/4]"C" ef ga |[M:4/4]"G" b2 gb"D" a2 fa |"G" gfed"C" efge | %5
+"G" d2 Bd gage |1"G" d2 BG"D" ABAF |[M:2/4]"G" G2 G2 :|2[M:4/4]"G" d2 Bd gage | dBGB"D" ABAF | %10
+[M:2/4]"G" GF GE |:[M:4/4]"G" DCB,D GFGA | BGBd"C" cBce |[M:2/4]"G" d2 d2 |[M:4/4] BGBd gage |1 %15
+ dBGB"D" ABAF |[M:2/4]"G" GF GE :|2[M:4/4] dBGB"D" ABAF ||"G" G2 BG dGGA | BG B2"C" cBce | %20
+"D" dedc"G" Bdef | gage dBGB |"D" ABAF"G" GFGE |"G" DCB,D GFGA | BGBd"C" cBce |[M:2/4]"G" d2 d2 | %26
+[M:4/4] BGBd gage | dBGB"D" ABAF |[M:2/4]"G" G2 G2 |] %29

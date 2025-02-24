@@ -16,20 +16,23 @@ var setCounter = 1;
 function addSet() {
    var currentCount = setCounter;
    console.log("Add set button clicked: " + currentCount);
-   let div1 = createElem(document.getElementById("leftColumn"), document.getElementById("addSetButton"), "div", "set" + currentCount + "Div", null, ["container", "p-3", "my-2", "text-bg-secondary", "rounded-3"], null);
-   let h2 = createElem(div1, null, "h2", null, null, null, null);
-   h2.appendChild(document.createTextNode("Set " + currentCount));
-   let buttonRemoveSet = createElem(h2, null, "button", null, "button", ["btn", "btn-danger", "btn-sm", "mx-1", "float-end"], "Remove set");
+   let setDiv = createElem(document.getElementById("leftColumn"), document.getElementById("addSetButton"), "div", "set" + currentCount + "Div", null, ["container", "p-3", "my-2", "text-bg-secondary", "rounded-3"], null);
+   let setHeader = createElem(setDiv, null, "div", null, null, ["my-2", "d-flex", "flex-row"], null);
+   let setTitle = createElem(setHeader, null, "input", null, "text", ["form-control", "w-50"], null)
+   setTitle.setAttribute("placeholder", "Set title");
+   setTitle.value = "Set " + currentCount;
+   let setHeaderButtonDiv = createElem(setHeader, null, "div", null, null, ["w-50"], null);
+   let buttonRemoveSet = createElem(setHeaderButtonDiv, null, "button", null, "button", ["btn", "btn-danger", "btn-sm", "mx-1", "float-end"], "Remove set");
    buttonRemoveSet.onclick = function(){removeSet(currentCount)};
-   let buttonMoveSetUp = createElem(h2, null, "button", null, "button", ["btn", "btn-success", "btn-sm", "mx-1", "float-end"], "↑");
+   let buttonMoveSetUp = createElem(setHeaderButtonDiv, null, "button", null, "button", ["btn", "btn-success", "btn-sm", "mx-1", "float-end"], "↑");
    buttonMoveSetUp.onclick = function(){moveSetUp(currentCount)};
-   let buttonMoveSetDown = createElem(h2, null, "button", null, "button", ["btn", "btn-success", "btn-sm", "mx-1", "float-end"], "↓");
+   let buttonMoveSetDown = createElem(setHeaderButtonDiv, null, "button", null, "button", ["btn", "btn-success", "btn-sm", "mx-1", "float-end"], "↓");
    buttonMoveSetDown.onclick = function(){moveSetDown(currentCount)};
-   createElem(div1, null, "div", "tuneDiv", null, null, null);
-   let addTuneToSetButton = createElem(div1, null, "button", null, "button", ["btn", "btn-primary"], "Add tune to set")
+   createElem(setDiv, null, "div", "tuneDiv" + currentCount, ["container", "my-2"], null, null);
+   let addTuneToSetButton = createElem(setDiv, null, "button", null, "button", ["btn", "btn-primary", "my-2"], "Add tune to set")
    addTuneToSetButton.setAttribute("data-bs-toggle", "modal");
    addTuneToSetButton.setAttribute("data-bs-target", "#addTuneSet" + currentCount + "Modal");
-   let modalDiv = createElem(div1, null, "div", "addTuneSet" + currentCount + "Modal", null, ["modal"], null);
+   let modalDiv = createElem(setDiv, null, "div", "addTuneSet" + currentCount + "Modal", null, ["modal"], null);
    let modalDialogDiv = createElem(modalDiv, null, "div", null, null, ["modal-dialog"], null);
    let modalContentDiv = createElem(modalDialogDiv, null, "div", null, null, ["modal-content"], null);
    let modalHeaderDiv = createElem(modalContentDiv, null, "div", null, null, ["modal-header"], null);
@@ -82,8 +85,7 @@ function moveSetDown(setId) {
 function addTune(setId, tuneName) {
    console.log("Add tune button clicked: " + setId + ", " + tuneName);
    if (tuneExists(tuneName)) {
-      let setNode = document.getElementById("set" + setId + "Div");
-      let tuneDivNode = setNode.childNodes.item("tuneDiv");
+      let tuneDivNode = document.getElementById("tuneDiv" + setId);
       let newTuneDivNode = createElem(tuneDivNode, null, "div", "tune" + tuneName, null, ["container", "p-4", "my-2", "text-bg-warning", "rounded-3"], null);
       let newTuneTitleNode = createElem(newTuneDivNode, null, "h4", null, null, null, tuneName);
       let newTuneCloseButton = createElem(newTuneTitleNode, null, "button", null, "button", ["btn", "btn-close", "btn-sm", "float-end"], null);

@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"D" AdF PA3 |"G" GBE GFG |"D" AdF PA3 |"G" GBE"A" cde |"D" AdF PA3 |"G" GBE GFG |"A" cdc A2 G |1 %7
+ EAA"D" D2 F :|2 EAA"D" D2 d |:"A" Pc3"D" Pd3 |"A" cec A2 g |"D" fed"G" ged |"A" cec A2 e | %13
+"D" Pf3"G" Pg3 |"A" age"D" d2 e | fdF A2 F |1"G" GEA"D" D2 d :|2"G" GEA"D" D2 z |:"A" AGG AGE | %19
+ AGE EDD | AGE cde |"D" dcA"G" PG3 |"A" AGG AGE | AGE EDD | cdc"D" A2 G |"A" EAA"D" D3 :| %26

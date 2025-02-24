@@ -1,0 +1,19 @@
+X:1
+T:Partition sans titre
+C:Compositeur / Arrangeur
+L:1/8
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Violon" snm="Vln."
+V:1
+ EA cB AG | FA cB A^G | Ac e^g ab | c'3 c' ba | ge ba ge | ^f2 f^g af | ^g2 ed BA | ^GA BG FD | %8
+ EA cB AG | FA cB A^G | Ac [Ee][^G^g] [Aa][Bb] | [cc']3 [cc'] [Bb][cc'] | %12
+ [dd'][cc'] [Bb][Aa] [dd'][cc'] | [Bb]3 e f2 | e^g be c'b |1 a3 G AG :|2 a4 a2 |: b^g ge eb | %18
+ b^g ge e[cc'] | [cc'][Aa] [Aa][Ee] [Ee][cc'] | [cc'][Aa] [Aa][Ee] [Ee]b | b^g ge eb | b^g ge e2 | %23
+ FE FG AB | (3cBc (3dcd (3e^ga | b^g ge eb | b^g ge e[cc'] | [cc'][Aa] [Aa][Ee] [Ee][cc'] | %28
+ [cc'][Aa] [Aa][Ee] [Bb][cc'] | [dd'][cc'] [Bb][Aa] [dd'][cc'] | [Bb]3 e f2 | e^g be c'b |1 %32
+ a3 G AG :|2 a4 a2 || (3b^ge (3bge g2 | (3b^ge (3bge g2 | (3c'ae (3c'ae a2 | (3c'ae (3c'ae a2 | %38
+ (3b^ge (3bge g2 | (3b^ge (3bge g2 | FE FG AB | (3cBc (3dcd (3e^ga | (3b^ge (3bge g2 | %43
+ (3b^ge (3bge g2 | (3c'ae (3c'ae a2 | (3c'ae (3c'ae [Bb][cc'] | [dd'][cc'] [Bb][Aa] [dd'][cc'] | %47
+ [Bb]3 e f2 | e^g be [cc'][Bb] | [Aa]2 [aa']4 |] %50

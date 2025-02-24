@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:G
+V:1 treble nm="Voice"
+V:1
+"Am" PA2 EA cdeg |"G" dcBG"Am" AE E2 | EAcA"G" Bdeg |"Am" eaa^g a3 =g |"Am" Pe3 d cA A2 | %5
+"G" Bgdc BG G2 |"Am" AEcE dEcd | ecAG EA A2 ::"Am" Pa2 ea ba a2 |"G" g2 dg bg g2 |"Am" Paged cded | %11
+ cA"G"BG"Am" EA A2 |"Am" Pa2 ea ba a2 |"G" g3 e dBGB |"Am" PA2 (3Bcd eaaf |"G" gedB"Am" eA A2 :| %16

@@ -1,0 +1,12 @@
+X:1
+T:Title
+L:1/8
+M:6/8
+I:linebreak $
+K:F
+V:1 treble nm="Voice"
+V:1
+"Gm" G,B,D GAB |"F" AGF"Gm" G z2 | G,B,D DEF | EDE"F" F2 D |"Gm" G,B,D GAB |"F" AGA FAB | %6
+ (3ABc A"Gm" BAG |"F" AFD CB,A, |"Gm" G,B,D GAB |"F" AGF"Gm" GG,A, | B,CA, B,DF | EDE"F" F2 D | %12
+"Gm" G,B,D GAB |"F" AGA FAB | (3ABc A"Gm" BAG |"F" AFD CB,A, |:"Gm" G,dB G2 G, | G,dB G2 G, | %18
+ G,dB GAB |"F" (3ABc A"Gm" BAG |"Gm" G,dB GAB |"F" AGA FAB | (3ABc A"Gm" BAG |"F" AFD CB,A, :| %24

@@ -1,0 +1,11 @@
+X:1
+T:Title
+L:1/8
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"Em" BE E2 DEAE |"D" FGFE DEFA |"Em" B3 c dcBA | GBAG"D" F2 GA |"Em" BE E2 DEAE |"D" FGFE DEFA | %6
+"Em" B3 c dcBA | BcdB edcd ::[K:A]"A" eAce Acea | fecA E2 Bc |"E" dBeB dBBd | cBAc B2 cd | %12
+"A" eAce Acea | fecA E2 Bc |"E" dB e2 efec |1 dBGB"A" A2 cd :|2 dBGB"A" A2 dc |] %17

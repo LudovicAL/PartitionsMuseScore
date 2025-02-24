@@ -1,0 +1,10 @@
+X:1
+T:Title
+L:1/4
+M:4/4
+I:linebreak $
+K:D
+V:1 treble nm="Voice"
+V:1
+"D" (A f) (f e) | (e f) (f a) |"G" (D B) (B A) |"D" (D F)"A" A2 ::"G" (D B) (B A) | (A B) (B d) | %6
+ (B, D) (D E) |1"D" F2"A" (E D) :|2"D" F2"A" E2 |] %9
