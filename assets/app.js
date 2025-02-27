@@ -39,6 +39,9 @@ function addSet() {
    createElem(modalHeaderDiv, null, "h4", null, null, ["modal-title"], "Modal Heading");
    let modalHeaderButton = createElem(modalHeaderDiv, null, "button", null, "button", ["btn-close"], null);
    modalHeaderButton.setAttribute("data-bs-dismiss", "modal");
+   modalHeaderButton.onclick = function(){
+         document.getElementById("modalTuneSearchBar" + currentCount).value = "";
+      };
    let modalBodyDiv = createElem(modalContentDiv, null, "div", null, null, ["modal-body"], null);
    let modalTuneSearchBar = createElem(modalBodyDiv, null, "input", "modalTuneSearchBar" + currentCount, null, ["form-control"], null);
    modalTuneSearchBar.setAttribute("list", "tuneDatalistDiv");

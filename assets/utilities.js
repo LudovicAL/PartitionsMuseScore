@@ -15,7 +15,7 @@ function displayToast(message) {
    toast.setAttribute("role", "alert");
    toast.setAttribute("aria-live", "assertive");
    toast.setAttribute("aria-atomic", "true");
-   let toastHeader = createElem(toast, null, "div", null, null, ["toast-header"], null);
+   let toastHeader = createElem(toast, null, "div", null, null, ["toast-header", "text-bg-warning"], null);
    createElem(toastHeader, null, "strong", null, null, ["me-auto"], "Tune picker");
    createElem(toastHeader, null, "small", null, null, ["text-muted"], "Error");
    let toastButton = createElem(toastHeader, null, "button", null, "button", ["btn-close"], null);
@@ -57,4 +57,8 @@ function createElem(elemParent, elemParentNextElem, elemRoot, elemId, elemType, 
       elemParent.insertBefore(elem, elemParentNextElem);
    }
    return elem;
+}
+
+function convertTextToUrl(content) {
+   return content.replace(" ", "%20").replace(" | ", "%3B").replace(";", "%3B"),replace("#", "%23");
 }
