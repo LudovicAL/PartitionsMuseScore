@@ -1,4 +1,5 @@
 var listOfTunes = [];
+var mapOfSelectedTunes = new Map();
 
 requestTitles()
    .then(response => response.json())
@@ -27,13 +28,22 @@ function requestTitles() {
    return Promise.resolve(fetch("https://api.github.com/repos/LudovicAL/PartitionsMuseScore/git/trees/41414f96a611711b558706b72e9c7c6a196cbf49"));
 }
 
-function requestAbc(tuneName) {
+function requestAbc(setId, tuneNode, tuneName) {
    console.log("Sending http request for abc for: " + tuneName);
    Promise
       .resolve(fetch("https://raw.githubusercontent.com/LudovicAL/PartitionsMuseScore/refs/heads/main/abc/" + convertTextToUrl(tuneName) + ".abc"))
-      .then(data => {
+      .then(rawData => {
          console.log("Tune data retrieved!\nProcessing tune data...");
-         
+         if (rawData.status == 200) {
+            return rawData.text();
+         } else {
+            removeTune(setId, tuneNode);
+            displayToast("A problem occured when fetching the tune's ABC data.");
+         }
+      })
+      .then(data => {
+         mapOfSelectedTunes.set(tuneName, data);
          console.log("Tune data processed");
+         updateAbc();
       })
 }

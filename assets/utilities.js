@@ -21,7 +21,7 @@ function displayToast(message) {
    let toastButton = createElem(toastHeader, null, "button", null, "button", ["btn-close"], null);
    toastButton.setAttribute("data-bs-dismiss", "toast");
    toastButton.setAttribute("aria-label", "Close");
-   let toastBody = createElem(toast, null, "div", null, null, ["toast-body"], "The chosen tune doesn't exist in the database.");
+   let toastBody = createElem(toast, null, "div", null, null, ["toast-body"], message);
    (new bootstrap.Toast(toast)).show();
 }
 
@@ -60,5 +60,9 @@ function createElem(elemParent, elemParentNextElem, elemRoot, elemId, elemType, 
 }
 
 function convertTextToUrl(content) {
-   return content.replace(" ", "%20").replace(" | ", "%3B").replace(";", "%3B"),replace("#", "%23");
+   return content.replace(" ", "%20").replace(" | ", "%3B").replace(";", "%3B").replace("#", "%23");
+}
+
+function extractTunePrefix(abcData) {
+   
 }

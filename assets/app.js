@@ -12,6 +12,7 @@ window.onload = function initEditor() {
 }
 
 var setCounter = 1;
+var tuneCounter = 1;
 
 function addSet() {
    var currentCount = setCounter;
@@ -89,10 +90,12 @@ function addTune(setId, tuneName) {
    console.log("Add tune button clicked: " + setId + ", " + tuneName);
    if (tuneExists(tuneName)) {
       let tuneDivNode = document.getElementById("tuneDiv" + setId);
-      let newTuneDivNode = createElem(tuneDivNode, null, "div", "tune" + tuneName, null, ["container", "p-4", "my-2", "text-bg-warning", "rounded-3"], null);
+      let newTuneDivNode = createElem(tuneDivNode, null, "div", "tune " + tuneCounter + ", " + tuneName, null, ["container", "p-4", "my-2", "text-bg-warning", "rounded-3"], null);
+      tuneCounter++;
       let newTuneTitleNode = createElem(newTuneDivNode, null, "h4", null, null, null, tuneName);
       let newTuneCloseButton = createElem(newTuneTitleNode, null, "button", null, "button", ["btn", "btn-close", "btn-sm", "float-end"], null);
       newTuneCloseButton.onclick = function(){removeTune(setId, newTuneDivNode);};
+      requestAbc(setId, newTuneDivNode, tuneName);
    } else {
       displayToast("This tune does not exist.");
    }
@@ -111,4 +114,28 @@ function printRendering() {
    document.getElementById("print").innerHTML = document.getElementById("renderingDiv").innerHTML;
    window.print();
    document.getElementById("print").innerHTML = "";
+}
+
+function updateAbc() {
+   console.log("Updating the ABC text field...");
+   let abcInputText = "";
+   let index = 1;
+   let tuneDiv = document.getElementById("tuneDiv" + index);
+   while (tuneDiv !== null) {
+      for (const childNode of tuneDiv.childNodes) {
+         let tuneTitle = childNode.childNodes[0].innerText;
+         let tuneAbc = mapOfSelectedTunes.get(tuneTitle);
+         if (tuneAbc) {
+            abcInputText = abcInputText.concat(tuneAbc);
+         } else {
+            displayToast("An error occured while updating the ABC text input field with data for: " + tuneTitle);
+         }
+      }
+      index++;
+      tuneDiv = document.getElementById("tuneDiv" + index);
+   }
+   let abcTextArea = document.getElementById("abcTextArea");
+   abcTextArea.value = abcInputText;
+   abcTextArea.dispatchEvent(new Event('change'));
+   console.log("ABC text field updated");
 }
